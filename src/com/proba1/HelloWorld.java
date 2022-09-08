@@ -2,6 +2,7 @@ package com.proba1;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.print("Hello");
+        System.out.println("Hello");
+        DEN.Den();
     }
 }
